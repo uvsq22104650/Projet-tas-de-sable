@@ -1,2 +1,5 @@
 # Projet-tas-de-sable
-à voir
+Groupe 5 BI TD-04
+Theo Pereira Da Cunha
+Kimberly Plancy
+Sammy Seksaoui
